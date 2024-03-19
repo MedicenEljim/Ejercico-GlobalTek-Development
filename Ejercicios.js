@@ -29,26 +29,6 @@ function sumar2 (num2)
 }
 console.log("5+ 55 + 555="+ + sumar2(num2));
 
-<<<<<<< HEAD
-=======
-
-
-
-/* Escriba una función que retorne en una lista de salida, solo aquellos números de una lista de entrada que satisfagan las
-siguientes condiciones:
-1. El número debe ser divisible por cinco.
-2. Si el número es mayor que 600, no se incluye en la salida.
-3. Si el número es mayor que 1000, detenga el procesamiento y retorne el resultado.
-*/
-
-
-
-
-
-
-
-
->>>>>>> 2b0c220270fa490b71397d435d24adba4268e671
 /*Dada una lista de cualquier longitud de entrada, escriba una función para agrupar los elementos similares en una matriz
 de salida (no importa el orden).
 
